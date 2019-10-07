@@ -13,7 +13,7 @@ class myStack:
      def size(self):
          
      def show(self):
-         
+        #abc 
 
 s = myStack()
 s.push('1')
